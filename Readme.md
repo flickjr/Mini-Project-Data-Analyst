@@ -1,4 +1,4 @@
-# Mini-Project-Data-Analyst
+# Mini Project Data Analyst Report
 Product trend analysis is an essential process that companies use to understand their market and customers. This process involves analyzing market trends to identify new product opportunities and assess the potential demand for new products.
 
 Steps in Product Trend Analysis:
